@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Ressources">
+        <file>images/triangle.png</file>
+        <file>images/triangle1.png</file>
+        <file>images/2-triangles.png</file>
+    </qresource>
+</RCC>
